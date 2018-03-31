@@ -1,0 +1,17 @@
+congruence
+
+trivial
+
+reflexivity
+
+try
+
+induction (nr - po czym)
+
+injection
+
+simpl
+
+pose proof
+
+assert

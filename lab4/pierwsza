@@ -1,0 +1,1 @@
+Lemma Pierwsza: forall A B C : Props, (A -> B -> C) -> (A -> B) -> (A -> C).

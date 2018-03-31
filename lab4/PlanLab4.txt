@@ -1,0 +1,20 @@
+Introduction:  
+
+* Rlogika.v
+
+* CoqSurvivalKit.pdf
+
+Exercises:
+
+* coqITP2015-ex1.v 
+* logikaCPDT.v
+* funkcje.v
+
+Exercise coqITP2015-ex1.v comes from 
+
+https://coq.inria.fr/coq-itp-2015
+
+Attention: that the solution is also there !
+
+Exercises in logikaCPDT.v come from the book "Certified Programming with Dependent Types"
+

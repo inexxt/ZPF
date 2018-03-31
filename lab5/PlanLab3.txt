@@ -1,0 +1,11 @@
+Plan na drugie laboratorium z Coqa:
+
+1. Obejrzeć razem taktyki-przykłady-użycia.v
+2. Zrobić zadania/obejrzeć plik coqITP2015-ex2.v (plik pochodzi ze strony https://coq.inria.fr/coq-itp-2015):
+3. Zrobić zadania z pliku coqITP2015-ex3.v 
+Proponuję kolejność:
+a) Exercise 1
+b) Exercise 2 - Q7 i Q8
+c) Exercise 5
+d) Exercise 4
+
